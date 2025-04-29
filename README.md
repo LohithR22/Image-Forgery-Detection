@@ -27,12 +27,12 @@ Number of categories: **2 (Authentic, Forged)**
 ## **Technical Details**
 ### **Models**
 1. **ResNet50**:
-   - Total Parameters: 23M
-   - F1 Score: 81%
-   - Architecture includes layers for feature extraction and dense layers for classification.
-2. **DenseNet121**:
    - Total Parameters: 77M
    - F1 Score: 83%
+   - Architecture includes layers for feature extraction and dense layers for classification.
+2. **DenseNet121**:
+   - Total Parameters: 23M
+   - F1 Score: 81%
    - Uses dense connections for efficient feature reuse.
 
 ### **Localization Model**
